@@ -194,8 +194,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.AuthTest" />
-        <item itemvalue="Gradle.AuthTest.shouldGetErrorIfWrongPassword" />
         <item itemvalue="Gradle.AuthTest.shouldGetErrorIfWrongLogin" />
+        <item itemvalue="Gradle.AuthTest.shouldGetErrorIfWrongPassword" />
         <item itemvalue="Gradle.AuthTest.shouldGetErrorIfNotRegistredUser" />
         <item itemvalue="Gradle.AuthTest.shouldGetErrorIfBlockedUser" />
       </list>
