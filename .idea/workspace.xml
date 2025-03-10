@@ -46,30 +46,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Gradle.AuthTest.executor": "Run",
-    "Gradle.AuthTest.shouldGetErrorIfBlockedUser.executor": "Run",
-    "Gradle.AuthTest.shouldGetErrorIfNotRegistredUser.executor": "Run",
-    "Gradle.AuthTest.shouldGetErrorIfWrongLogin.executor": "Run",
-    "Gradle.AuthTest.shouldGetErrorIfWrongPassword.executor": "Run",
-    "Gradle.AuthTest.shouldSuccessfulLoginIfRegisteredActiveUser.executor": "Run",
-    "Gradle.Patterns_task_two [dependencies].executor": "Run",
-    "Gradle.Patterns_task_two.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/Natali/IdeaProjects/Patterns_task_two/src/test/java/ru/netology/service",
-    "onboarding.tips.debug.path": "C:/Users/Natali/IdeaProjects/Patterns_task_two/src/main/java/ru/netology/service/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Gradle.AuthTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AuthTest.shouldGetErrorIfBlockedUser.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AuthTest.shouldGetErrorIfNotRegistredUser.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AuthTest.shouldGetErrorIfWrongLogin.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AuthTest.shouldGetErrorIfWrongPassword.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AuthTest.shouldSuccessfulLoginIfRegisteredActiveUser.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Patterns_task_two [dependencies].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Patterns_task_two.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Natali/IdeaProjects/Patterns_task_two/src/test/java/ru/netology/service&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Natali/IdeaProjects/Patterns_task_two/src/main/java/ru/netology/service/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Gradle.AuthTest">
     <configuration name="AuthTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
