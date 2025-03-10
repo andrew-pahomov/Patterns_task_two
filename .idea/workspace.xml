@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f17c035-bbe2-4add-a695-f35e7835e3ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ .github/workflows/gradle.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ .github/workflows/gradle.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ .github/workflows/gradle.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
